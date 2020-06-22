@@ -1,0 +1,15 @@
+Imperative - how to - computer science
+Descriptive - what is - mathermatics
+
+High level languages are able  to take descriptive statements and process how to in computer.
+
+expression  - numbers(primitive data) and +,-(primitive procedure)
+combination	- 2 + 3
+abstraction 	- add
+
+ predicate is used for procedures that return true or false.  primitive predicates >, <, and =
+
+operand(a,b,1,2,3)  operation(+,-)  evaluation(resulting a+b)
+
+“fully expand and then reduce” evaluation method, "normal-order evaluation",
+ “evaluate the arguments and then apply” method , "applicative-order evaluation"(the interpreter actually  uses this method)
